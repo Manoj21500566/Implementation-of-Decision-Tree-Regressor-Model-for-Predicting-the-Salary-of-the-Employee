@@ -58,7 +58,50 @@ dt.predict([[5,6]])
 ~~~
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+Head:
+
+
+![b1](https://user-images.githubusercontent.com/94588708/173001293-1198177f-29f8-4a55-965c-3faa6ca875f0.jpg)
+
+
+Info:
+
+
+![b2](https://user-images.githubusercontent.com/94588708/173001339-5611634f-97dc-44a9-8eb1-1445e3a597b3.jpg)
+
+Isnull:
+
+![b3](https://user-images.githubusercontent.com/94588708/173001401-6064f01d-50eb-4698-907c-b4b941160f7c.jpg)
+
+
+Head using label encoder:
+
+
+
+![b4](https://user-images.githubusercontent.com/94588708/173001488-48aace55-c088-43fa-b058-17ab5cdd4de1.jpg)
+
+Mean square error:
+
+
+![b5](https://user-images.githubusercontent.com/94588708/173001584-a87bd65a-5e8a-4393-9d9c-919c4b6b8efe.jpg)
+
+
+
+r2:
+
+
+
+![b6](https://user-images.githubusercontent.com/94588708/173001644-32610925-6c96-44e9-83d1-00471d23c322.jpg)
+
+Array:
+
+
+
+
+![A7](https://user-images.githubusercontent.com/94588708/173001695-187c2487-da73-4b35-8672-38cc3166c0f1.png)
+
+
+
 
 
 ## Result:
